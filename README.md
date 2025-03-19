@@ -1,2 +1,2 @@
 # DDS
-disinformation detection system
+Disinformation Detection System
